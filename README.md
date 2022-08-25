@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/guskmetz/guskmetz.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-<a href="guskmetz.github.io/files/Gus_Kmetz_CV.pdf.pdf" target="_blank">CV.</a>
+<a href="guskmetz.github.io/files/Gus_Kmetz_CV.pdf" target="_blank">CV.</a>
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 

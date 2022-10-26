@@ -1,45 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Page!
 
-You can use the [editor on GitHub](https://github.com/guskmetz/guskmetz.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am Gus Kmetz, a Research Associate at the Federal Reserve Bank of San Francisco. I have research interests in empirical macroeconomics and consumer finance. Before joining the Federal Reserve, I graduated with a Bachelor of Science in Applied Mathematics-Economics from Brown University with the highest Latin honors and departmental honors in Economics. Here is [my CV](https://guskmetz.github.io/files/Gus_Kmetz_CV.pdf).
 
-[guskmetz.github.io/files/Gus_Kmetz_CV.pdf](https://guskmetz.github.io/files/Gus_Kmetz_CV.pdf)
+### Publications
 
-<a href="https://guskmetz.github.io/files/Gus_Kmetz_CV.pdf" target="_blank">CV.</a>
+[Remote Work and Housing Demand](https://www.frbsf.org/economic-research/publications/economic-letter/2022/september/remote-work-and-housing-demand/) with John Mondragon and Johannes Wieland. 2022. FRBSF Economic Letter 2022-26.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Research
+
+[Great Expectations: The Information Implications of Federal Open Market Committee Releases](https://drive.google.com/file/d/1JuuVn9zvGnBg37MfNA-QopEDf4-pR1OH/view). 2021. Senior Honors Thesis. **Advisor:** Gauti Eggertsson
+- Winner of the Outstanding Honors Thesis Prize from Brown University Department of Economics
+
+
 
 ### Disclaimer
 
-The material on this website does not necessarily reflect the views of the Federal Reserve Bank of San Francisco or the Federal Reserve System.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/guskmetz/guskmetz.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+The material on this website does not reflect the views of the Federal Reserve Bank of San Francisco nor those of the Federal Reserve System.
 
 
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

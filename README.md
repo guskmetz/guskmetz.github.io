@@ -16,6 +16,6 @@ I am Gus Kmetz, a Research Associate at the Federal Reserve Bank of San Francisc
 
 ### Disclaimer
 
-The material on this website does not reflect the views of the Federal Reserve Bank of San Francisco nor those of the Federal Reserve System.
+The material on this website does not necessarily reflect the views of the Federal Reserve Bank of San Francisco nor those of the Federal Reserve System.
 
 

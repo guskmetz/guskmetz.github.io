@@ -4,6 +4,12 @@ I am Gus Kmetz, a Research Associate at the Federal Reserve Bank of San Francisc
 
 ### Publications
 
+
+
+[Can the News Drive Inflation Expectations?](https://www.frbsf.org/economic-research/publications/economic-letter/2022/november/can-news-drive-inflation-expectations/) with Adam Shapiro and Dan Wilson. 2022. FRBSF Economic Letter 2022-31.
+
+[How house prices respond to monetary policy surprises](https://cepr.org/voxeu/columns/how-house-prices-respond-monetary-policy-surprises) with Denis Gorea, Oleksiy Kryvtsov, and Marianna Kudlyak. 2022. VoxEU Column. 
+
 [Remote Work and Housing Demand](https://www.frbsf.org/economic-research/publications/economic-letter/2022/september/remote-work-and-housing-demand/) with John Mondragon and Johannes Wieland. 2022. FRBSF Economic Letter 2022-26.
 
 

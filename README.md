@@ -1,6 +1,6 @@
 ## Welcome to my GitHub Page!
 
-I am Gus Kmetz, a Research Associate at the Federal Reserve Bank of San Francisco. I have research interests in empirical macroeconomics and consumer finance. Before joining the Federal Reserve, I graduated with a Bachelor of Science in Applied Mathematics-Economics from Brown University with the highest Latin honors and departmental honors in Economics. Here is [my CV](https://guskmetz.github.io/files/Gus_Kmetz_CV.pdf).
+I am Gus Kmetz, a Research Associate at the Federal Reserve Bank of San Francisco. I have research interests in empirical macroeconomics, macro-finance, and consumer finance. Before joining the Federal Reserve, I graduated with a Bachelor of Science in Applied Mathematics-Economics from Brown University with the highest Latin honors and departmental honors in Economics. Here is [my CV](https://guskmetz.github.io/files/Gus_Kmetz_CV.pdf).
 
 ### Publications
 
